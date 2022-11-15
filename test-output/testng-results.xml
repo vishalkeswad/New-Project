@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="13" total="14" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-04T17:23:11 IST" name="Default suite" finished-at="2022-11-04T17:23:55 IST" duration-ms="44797">
+    <groups>
+    </groups>
+    <test started-at="2022-11-04T17:23:11 IST" name="Default test" finished-at="2022-11-04T17:23:55 IST" duration-ms="44797">
+      <class name="TestCases.ManagerHomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.ManagerHomePageTest@428640fa]" started-at="2022-11-04T17:23:11 IST" name="setup" finished-at="2022-11-04T17:23:25 IST" duration-ms="13792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyListOfCustomersTest()[pri:0, instance:TestCases.ManagerHomePageTest@428640fa]" started-at="2022-11-04T17:23:25 IST" name="verifyListOfCustomersTest" finished-at="2022-11-04T17:23:55 IST" duration-ms="29947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyListOfCustomersTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCases.ManagerHomePageTest@428640fa]" started-at="2022-11-04T17:23:55 IST" name="closeBrowser" finished-at="2022-11-04T17:23:55 IST" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.ManagerHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
